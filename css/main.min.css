@@ -21,6 +21,12 @@
 .text_medium span {
     color: #f57500;
 }
+.portfolio__text {
+    color: #fff;
+}
+.portfolio__text:hover {
+    color: #f57500;
+}
 @media (max-width:767.98px) {
     .text_medium {
         font-size: 20px;
